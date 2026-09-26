@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 and occasionally fixing them.<br><br>📚 I'm currently learning PyTorch & TensorFlow for deep learning, time-series analysis, and geospatial climate data modeling.<br><br>🎯 Goals: Earn my Bachelor's degree with my thesis Flood Risk Assessment System Based on Random Forest Using BMKG Climatological Time-Series Data: A Case Study of Padang City  a government-commissioned project by the West Sumatra Provincial Government aimed at tackling flood prediction challenges.<br><br>💼 Open for freelance digital design, branding, UI/UX, and creative assets.</p>
+<p align="left">✨ Creating bugs since 2018 and occasionally fixing them.<br><br>📚 I'm currently learning PyTorch & TensorFlow for deep learning, time-series analysis, and geospatial climate data modeling.<br><br>🎯 Goals: Earn my Bachelor's degree with my thesis Flood Risk Assessment System Based on Random Forest Using BMKG Climatological Time-Series Data: A Case Study of Padang City  a government-commissioned project by the West Sumatra Provincial Government aimed at tackling flood prediction challenges.<br><br>💼 Open for freelance digital design, branding, UI/UX, and creative assets WITHOUT AI.</p>
 
 ###
 
